@@ -6,3 +6,18 @@ if status is in not stagin phase upstream it
 git branch --unset-upstream
 git add filename
 git commit -m "modified file sending"
+
+------------------------------------
+to remove file from github
+
+git rm -rf filename
+
+git commit -m "removing file"
+
+git push
+-------------------------------------
+
+git clone
+cd folder
+git pull
+-------------------------------------
