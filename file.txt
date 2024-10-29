@@ -1,1 +1,5 @@
-dsfdsfds
+git add filename
+if status is in not stagin phase upstream it
+git branch --unset-upstream
+git add filename
+git 
