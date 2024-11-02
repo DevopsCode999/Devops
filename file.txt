@@ -30,3 +30,8 @@ git pull
 -------------------------------------
 git config --show-origin --show-scope -l
 -----------------------------------------------
+git branch branch name
+
+git checkout branch name
+
+
