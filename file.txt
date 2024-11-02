@@ -29,4 +29,8 @@ cd folder
 git pull
 -------------------------------------
 git config --show-origin --show-scope -l
------------------------------------------------
+----------------------------------------
+git branch 
+git checkout branch name
+git merge branch name
+----------------------------
