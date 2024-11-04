@@ -5,6 +5,10 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ------------------------------------------------------
 
+to remove last commit
+-----------------------------------------------------------
+
+
 ""'staging_area' to 'untracked_files'""=> git restore staged filename.txt
 
 ---------------------------------------------------
