@@ -36,5 +36,13 @@ git checkout branch name
 ------------------------------------
 git revert  preserve the commit history
 git reset   it changes the commit history
-------------------------------------------------
+---------------------------------------------------------------
+There are three primary modes: --soft, --mixed, and --hard.
+
+git reset --soft <commit>: Moves the HEAD to the specified commit and stages all changes (keeps changes in the working directory).
+
+git reset --mixed <commit> (default mode): Moves the HEAD to the specified commit and unstages the changes (keeps changes in the working directory).
+
+git reset --hard <commit>: Resets the HEAD to the specified commit, and both the staging area and working directory are wiped out (i.e., all changes are lost).
+---------------------------------------------------------------
 
