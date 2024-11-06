@@ -34,3 +34,7 @@ git branch
 git checkout branch name
 git merge branch name
 ----------------------------
+git revert-> is used to undo changes   		   -> does not alter the commit history
+git reset -> local changes that haven't pushed	   ->alter the commit history
+---------------------------------------------------
+-----------------------------
