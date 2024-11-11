@@ -7,10 +7,9 @@ git config --global user.name "Your Name"
 
 to remove last commit
 -----------------------------------------------------------
-Revert back changes
 git revert HEAD
 ctrl+c
-:aq!
+:qa!
 ----------------------------------------------------------
 ""'staging_area' to 'untracked_files'""=> git restore staged filename.txt
 
