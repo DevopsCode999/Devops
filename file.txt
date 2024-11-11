@@ -14,7 +14,7 @@ git branch --unset-upstream
 git add filename
 git commit -m "modified file sending"
 
-------------------------------------
+--------------------------------------
 to remove file from github
 
 git rm -rf filename
