@@ -10,6 +10,7 @@ to remove last commit
 git revert HEAD
 ctrl+c
 :qa!
+git push
 ----------------------------------------------------------
 ""'staging_area' to 'untracked_files'""=> git restore staged filename.txt
 
