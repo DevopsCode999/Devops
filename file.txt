@@ -38,6 +38,8 @@ git branch branch name
 
 git checkout branch name
 ------------------------------------
+git cherry is a command in Git used to compare the changes between two branches and show commits that are in one branch but not the other. It can be useful for understanding the differences in commits between two branches, such as determining which commits in a feature branch haven't yet been merged into the main branch.
+----------------------------------------------
 git revert  preserve the commit history
 git reset   it changes the commit history
 ---------------------------------------------------------------
