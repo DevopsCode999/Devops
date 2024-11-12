@@ -7,8 +7,11 @@ git config --global user.name "Your Name"
 
 to remove last commit
 -----------------------------------------------------------
-
-
+git revert HEAD
+ctrl+c
+:qa!
+git push
+----------------------------------------------------------
 ""'staging_area' to 'untracked_files'""=> git restore staged filename.txt
 
 ---------------------------------------------------
@@ -19,7 +22,7 @@ git add filename
 git commit -m "modified file sending"
 
 ------------------------------------
-to remove file from github
+to remove file from github  (delete file from working directory and git)
 
 git rm -rf filename
 
