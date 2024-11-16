@@ -4,6 +4,11 @@ git push --set-upstream origin main
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ------------------------------------------------------
+git log --oneline
+it display current history
+--------------------------------------------------------------
+git-cherry:picking one file from one branch to another branch
+------------------------------------------------------------
 
 to remove last commit
 -----------------------------------------------------------
